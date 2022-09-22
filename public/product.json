@@ -1,0 +1,56 @@
+[
+    {
+        "_id": 1,
+        "name": "Driving Jacket",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/CbJ0qBn/driving-jacket.jpg",
+        "available": "1000",
+        "minimumOrder": "100"
+    },
+    {
+        "_id": 2,
+        "name": "Driving Shoe",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/tPMk2nX/driving-shoe.jpg",
+        "available": "1700",
+        "minimumOrder": "100"
+    },
+    {
+        "_id": 3,
+        "name": "Helmet",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/LgzX8DZ/helmet.jpg",
+        "available": "1500",
+        "minimumOrder": "150"
+    },
+    {
+        "_id": 4,
+        "name": "Goggles & Gloves",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/3WJvCLD/goggles-gloves.jpg",
+        "available": "1000",
+        "minimumOrder": "100"
+    },
+    {
+        "_id": 5,
+        "name": "Driving Mirror Glass",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/q0SNMjV/driving-mirror-glass.jpg",
+        "available": "1400",
+        "minimumOrder": "100"
+    },
+    {
+        "_id": 6,
+        "name": "Tir",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/kMNZdDQ/tires.jpg",
+        "available": "1400",
+        "minimumOrder": "100"
+    }
+]
